@@ -108,5 +108,6 @@
             - Queue
             - DB
     - Redis
+        - 各个版本 http://download.redis.io/releases/
     - MySQL
     - Kafka
