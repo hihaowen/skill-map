@@ -102,6 +102,7 @@
 		- Pusher千万级消息推送系统 ok
 		- 单点登录Composer包
 		- 简易队列(参考Laravel)
+		- 文件上传(基于WebSocket)
 		
 	- 服务治理（限流、降级、熔断）
 - 源码
