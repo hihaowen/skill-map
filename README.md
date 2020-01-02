@@ -17,6 +17,7 @@
 			- 和tcp区别
 			- 使用场景
 		- [HTTP](basic/protocol/http)
+		- WebSocket
 	- 算法
 		- 常见的几个
 			- 快排
@@ -96,7 +97,12 @@
         - 设计上传接口思路
 - 项目经历
 	- 业务开发
-		- 腾跃app支付模块
+		- 支付工具集成
+		- 基于用户、角色的权限系统 ok
+		- Pusher千万级消息推送系统 ok
+		- 单点登录Composer包
+		- 简易队列(参考Laravel)
+		
 	- 服务治理（限流、降级、熔断）
 - 源码
     - Laravel
@@ -109,5 +115,5 @@
             - DB
     - Redis
         - 各个版本 http://download.redis.io/releases/
-    - MySQL
-    - Kafka
+    - PHP
+    - NSQ
